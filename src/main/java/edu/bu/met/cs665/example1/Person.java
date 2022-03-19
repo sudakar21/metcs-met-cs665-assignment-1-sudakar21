@@ -17,6 +17,7 @@ public class Person {
    */
   public Person(String firstName, String lastName) {
     super();
+    System.out.println("Creating Person " + firstName);
     this.firstName = firstName;
     this.lastName = lastName;
   }
