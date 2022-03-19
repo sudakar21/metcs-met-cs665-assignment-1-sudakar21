@@ -6,7 +6,7 @@ import org.apache.log4j.PropertyConfigurator;
 
 public class Main {
 
-  private static Logger logger = Logger.getLogger(Main.class);
+  //private static Logger logger = Logger.getLogger(Main.class);
 
 
   /**
@@ -26,7 +26,7 @@ public class Main {
     System.out.println("Hello World");
  //   logger.info(m.doIt());
 
-    logger.trace("Trace Message!");
+ //   logger.trace("Trace Message!");
 //    logger.debug("Debug Message!");
 //    logger.info("Info Message!");
 //    logger.warn("Warn Message!");
