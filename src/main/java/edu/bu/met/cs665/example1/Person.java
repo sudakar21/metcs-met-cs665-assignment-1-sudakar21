@@ -11,7 +11,7 @@ public class Person {
 
   /**
    * Create a Person object using first and last name and birthday.
-   * 
+   *  Testing commit
    * @param firstName firstname of the person as string
    * @param lastName lastname of the person as string
    */
